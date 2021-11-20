@@ -1,0 +1,47 @@
+
+   
+  .navb{
+    height: 60px;
+    background: rgb(15, 15, 15);
+    display:flex; 
+    align-items: center;
+    text-decoration: none;
+    justify-content: space-around;
+    color: white;
+
+  }
+  .link1{
+    color: white;
+
+    text-decoration: none;
+    font-size: small;
+    
+
+  }
+  .link1:hover{
+    border: 1px  white solid;
+    border-radius: 2px;
+    color: white;
+
+  }
+  .nav-setting{
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .nav-left{
+    width: 5%;
+  }
+
+  .nav-center{
+    width: 40%;
+
+  }
+  .nav-right{
+    width: 35%;
+
+  }
+  .searchbox{
+    background-color: rgb(205, 202, 50);
+  }
+ 
